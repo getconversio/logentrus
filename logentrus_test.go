@@ -4,8 +4,8 @@ import (
 	"os"
 	"testing"
 
-	"github.com/Sirupsen/logrus"
-	"github.com/puddingfactory/logentrus"
+	"github.com/getconversio/logentrus"
+	"github.com/sirupsen/logrus"
 )
 
 func init() {
